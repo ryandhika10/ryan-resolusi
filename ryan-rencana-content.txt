@@ -1,7 +1,7 @@
 Rencana Konten Ryan
 
- - CSS
+ - CSS (Belajar CSS)
  - Javascript
- - PHP
+ - PHP (Memahami PHP)
  - CI3
  - Laravel
