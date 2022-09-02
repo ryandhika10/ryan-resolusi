@@ -1,2 +1,2 @@
 # ryan-resolusi
-Repositori untuk menyimpan rencana ryan kedepannya
+Repositori untuk menyimpan eencana ryan kedepannya
